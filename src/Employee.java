@@ -1,5 +1,5 @@
 public class Employee extends Person {
-    public int name;
-    public int surname;
+    public String name;
+    public String surname;
     public int age;
 }
